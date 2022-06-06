@@ -1,0 +1,24 @@
+{
+  "name": "vue-ssr-official-tutorial",
+  "version": "1.0.0",
+  "description": "https://vuejs.org/guide/scaling-up/ssr.html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jihogrammer/vue-ssr-official-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jihogrammer/vue-ssr-official-tutorial/issues"
+  },
+  "homepage": "https://github.com/Jihogrammer/vue-ssr-official-tutorial#readme",
+  "dependencies": {
+    "vue": "^3.2.36"
+  }
+}
